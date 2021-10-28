@@ -71,6 +71,11 @@ $example = [
         *{
             font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
+
+        li {
+            line-height: 1.5;
+        }
+        
         table, th, td {
             border: 1px solid black;
             border-collapse: collapse;
